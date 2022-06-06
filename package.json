@@ -1,0 +1,12 @@
+{
+  "name": "app.js",
+  "version": "1.0.1-alpha",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
