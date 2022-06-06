@@ -25,5 +25,4 @@ const infoIp = () => {
 }
 
 module.exports = infoIp();
-
 console.log(infoIp());
