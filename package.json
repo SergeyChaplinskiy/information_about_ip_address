@@ -1,5 +1,5 @@
 {
-  "name": "information_about_ip_address",
+  "name": "information_about_ip_addres",
   "version": "1.0.1-alpha",
   "main": "app.js",
   "scripts": {
@@ -16,8 +16,5 @@
     "url": "https://github.com/SergeyChaplinskiy/information_about_ip_address/issues"
   },
   "homepage": "https://github.com/SergeyChaplinskiy/information_about_ip_address#readme",
-  "description": "",
-  "dependencies": {
-    "information_about_ip_address": "^1.0.1-alpha"
-  }
+  "description": ""
 }
